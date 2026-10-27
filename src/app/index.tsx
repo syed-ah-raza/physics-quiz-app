@@ -9,7 +9,7 @@ import {
   View,
 } from "react-native";
 
-type Difficulty = "Easy" | "Medium" | "Hard";
+type Difficulty = "Easy" | "MEDIUM" | "Hard";
 type Variable = "force" | "mass" | "acceleration";
 type Unit = {
   label: string;
