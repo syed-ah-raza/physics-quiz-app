@@ -318,7 +318,7 @@ export default function Index() {
       contentContainerStyle={styles.container}
       keyboardShouldPersistTaps="handled"
     >
-      <Text style={styles.heading}>Physics Quiz</Text>
+      <Text style={styles.heading}><Text style={styles.heading}>Newton's Second Law Physics Quiz</Text></Text>
       <Text style={styles.subtitle}>
         Newton's Second Law — F = ma
       </Text>
